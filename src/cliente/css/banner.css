@@ -4,7 +4,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../../../dist/img/1.jpg");
+    background-image: url("../../../dist/img/highway.jpg");
 }
 .ewk_sombra{
     position: absolute;
@@ -78,7 +78,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../../../dist/img/3.jpg");
+    background-image: url("../../../dist/img/highway.jpg");
     position: relative;
     padding: 10%;
     margin-top: 200px;
